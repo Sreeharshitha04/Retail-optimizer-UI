@@ -1,0 +1,3 @@
+item_name,current_stock,predicted_demand,status,confidence
+Vintage Hoodie,120,300,RESTOCK,0.95
+Slim Jeans,250,50,REDUCE,0.88
