@@ -1,3 +1,31 @@
-item_name,current_stock,predicted_demand,status,confidence
-Vintage Hoodie,120,300,RESTOCK,0.95
-Slim Jeans,250,50,REDUCE,0.88
+date,item_name,current_stock,predicted_demand,status,confidence
+2024-02-22,Toor Daal (1kg),100,110,STABLE,0.91
+2024-03-01,Toor Daal (1kg),80,120,RESTOCK,0.95
+2024-03-08,Toor Daal (1kg),40,150,RESTOCK,0.92
+2024-03-15,Toor Daal (1kg),20,180,RESTOCK,0.94
+2024-03-22,Toor Daal (1kg),110,105,STABLE,0.90
+2024-02-22,Amul Milk (500ml),60,60,STABLE,0.95
+2024-03-01,Amul Milk (500ml),50,65,RESTOCK,0.98
+2024-03-08,Amul Milk (500ml),45,70,RESTOCK,0.97
+2024-03-15,Amul Milk (500ml),30,85,RESTOCK,0.99
+2024-03-22,Amul Milk (500ml),70,60,STABLE,0.96
+2024-02-22,Maggi Noodles,120,100,STABLE,0.85
+2024-03-01,Maggi Noodles,100,115,RESTOCK,0.88
+2024-03-08,Maggi Noodles,80,130,RESTOCK,0.91
+2024-03-15,Maggi Noodles,50,160,RESTOCK,0.94
+2024-03-22,Maggi Noodles,150,110,STABLE,0.89
+2024-02-22,Marie Biscuit,250,200,REDUCE,0.82
+2024-03-01,Marie Biscuit,200,210,STABLE,0.85
+2024-03-08,Marie Biscuit,180,230,RESTOCK,0.88
+2024-03-15,Marie Biscuit,150,260,RESTOCK,0.91
+2024-03-22,Marie Biscuit,300,210,STABLE,0.92
+2024-02-22,Lifebuoy Soap,80,70,STABLE,0.88
+2024-03-01,Lifebuoy Soap,65,85,RESTOCK,0.90
+2024-03-08,Lifebuoy Soap,40,100,RESTOCK,0.93
+2024-03-15,Lifebuoy Soap,20,120,RESTOCK,0.95
+2024-03-22,Lifebuoy Soap,110,80,STABLE,0.87
+2024-02-22,Onion (1kg),50,90,RESTOCK,0.95
+2024-03-01,Onion (1kg),40,110,RESTOCK,0.97
+2024-03-08,Onion (1kg),25,130,RESTOCK,0.98
+2024-03-15,Onion (1kg),10,160,RESTOCK,0.99
+2024-03-22,Onion (1kg),120,110,STABLE,0.94
